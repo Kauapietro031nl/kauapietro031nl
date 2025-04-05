@@ -1,11 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%A3;Desenvolvedor+Full+Stack" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%A3;Desenvolvedor+Full+Stack&color=FFFFFF" 
       alt="Typing SVG" 
     />
   </a>
 </div>
+
 
 <br><br>
 
@@ -17,7 +18,7 @@
     <p style="color: #f8f8f2;">Atualmente criando um <strong>e-commerce de pizzaria</strong> e um <strong>sistema de estoque</strong>.</p>
     <br>
     <h3 style="color: #f8f8f2; font-size: 24px;">📚 Aprendendo</h3>
-    <p style="color: #f8f8f2;">API RESTful | TypeScript | Desenvolvimento Full Stack</p>
+    <p style="color: #f8f8f2;">API RESTful | TypeScript | React | Desenvolvimento Full Stack</p>
   </div>
 
   <div style="flex: 1; min-width: 320px; max-width: 450px; text-align: center; background: #282a36; padding: 25px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);">
